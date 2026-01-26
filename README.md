@@ -1,5 +1,5 @@
-# lema-rag-json
-JSONification of the LEMA dataset
+# Description
+JSONification of the LEMA dataset to allow for easier data ingestion, and search. The ultimate goal is a provide a semantic search of the Lachlan & Elizabeth Macquarie Archive (LEMA) once the dataset is updated.
 
 (https://www.mq.edu.au/macquarie-archive/lema/)
 
