@@ -7,7 +7,8 @@ JSONification of the LEMA dataset to allow for easier data ingestion, and search
 While all care has been taken in transfering the dataset from html to json, there may be some data losses.
 
 # formating description
-```      {
+```
+{
         "id": "LEMA-JOUR-1791-124", - Archive name / entry type / year / entry number
         "type": "journal", - Entry type
         "date_written": "1791-12-18", - Date written
@@ -20,5 +21,5 @@ While all care has been taken in transfering the dataset from html to json, ther
         "summary": null, - Data summary if needed
         "location_written": null, - Location written if known
         "tags": null - Tags if needed 
-      }
+}
 ```
